@@ -10,4 +10,4 @@
 
 - maven 配置图库
 
-- spring-boot 项目启动
+- spring-boot 项目启动图库
