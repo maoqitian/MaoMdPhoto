@@ -11,3 +11,5 @@
 - maven 配置图库
 
 - spring-boot 项目启动图库
+
+- Nexus maven私服配置
