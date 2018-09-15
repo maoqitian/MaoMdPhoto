@@ -4,6 +4,8 @@
 
 - Android源码编译图库
 
+- Android 运行时权限
+
 - Jenkins安装配置图库
 
 - Jenkins离线插件 
