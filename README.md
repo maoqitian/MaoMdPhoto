@@ -13,3 +13,5 @@
 - spring-boot 项目启动图库
 
 - Nexus maven私服配置
+
+- Kotlin picture
