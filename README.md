@@ -24,4 +24,4 @@
 
 - FastDFS
 
-- View 的滑动
+- Android View 的滑动方式
