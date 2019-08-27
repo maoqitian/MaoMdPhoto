@@ -1,0 +1,23 @@
+KEY_PATH=src/main/btv
+KEY_PASS=MAO5124598
+ALIAS_NAME=wanandroidAlias
+ALIAS_PASS=MAO5124598
+
+
+Android开发规范和基础架构研究
+    主题简介：最近我们整理了Android 开发规范，并重新搭建了由Retrofit2 + RxJava2 + Dagger2 +MVP+RxBus架构构建的App，有效优化App开发，所以做了本次分享，分享主题内容如下：
+
+Android 开发规范
+MVC MVP 架构对比与分析
+Android 实现 MVP 架构
+Android MVP架构实践
+MVP架构优化
+成品项目运行测试体验
+    
+	培训人：毛麒添
+
+    培训地址：14楼公司大会议室
+
+    分享时间：2019年8月23日下午15:00 - 16:30
+
+诚邀各位同事领导参加。
